@@ -8,4 +8,5 @@ var moveZeroes = function(nums) {
           j++;
       }
   }
+  return nums;
 };
